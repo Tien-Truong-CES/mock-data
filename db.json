@@ -26,6 +26,71 @@
       "BuyerName": "T tester",
       "BuyerAgentName": "T com",
       "OfferStatus": "purchase"
+    },
+    {
+      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78caa113",
+      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
+      "CurrentStep": "submitted",
+      "SellerName": "T dev 3",
+      "BuyerName": "T tester",
+      "BuyerAgentName": "T com",
+      "OfferStatus": "purchase"
+    },
+    {
+      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78caa114",
+      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
+      "CurrentStep": "submitted",
+      "SellerName": "T dev 3",
+      "BuyerName": "T tester",
+      "BuyerAgentName": "T com",
+      "OfferStatus": "purchase"
+    }
+  ],
+  "buyers": [
+    {
+      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cb201",
+      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
+      "CurrentStep": "submitted",
+      "SellerName": "seller 1",
+      "BuyerName": "buyer 1",
+      "BuyerAgentName": "T com",
+      "OfferStatus": "purchase"
+    },
+    {
+      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cab202",
+      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
+      "CurrentStep": "submitted",
+      "SellerName": "seller 2",
+      "BuyerName": "buyer 2",
+      "BuyerAgentName": "T com",
+      "OfferStatus": "purchase"
+    },
+    {
+      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cab203",
+      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
+      "CurrentStep": "submitted",
+      "SellerName": "seller 3",
+      "BuyerName": "buyer 3",
+      "BuyerAgentName": "T com",
+      "OfferStatus": "purchase"
+    },
+    {
+      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cab204",
+      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
+      "CurrentStep": "submitted",
+      "SellerName": "seller 4",
+      "BuyerName": "buyer 5",
+      "BuyerAgentName": "T com",
+      "OfferStatus": "purchase"
+    },
+    {
+      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cab205",
+      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
+      "CurrentStep": "submitted",
+      "SellerName": "seller 5",
+      "BuyerName": "buyer 5",
+      "BuyerAgentName": "T com",
+      "OfferStatus": "purchase"
     }
   ]
 }
