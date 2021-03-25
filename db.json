@@ -4,96 +4,61 @@
   },
   "offers": [
     {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78c2027",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "T dev 1",
-      "BuyerName": "T tester",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
+      "id": "37acc74b-c9f7-49d3-aecf-114cceede5a9",
+      "PropertyId": "d838cb2d-df0a-4ca4-93fd-4ba6bee4d098",
+      "CurrentStep": 1,
+      "PropertyUserId": "391dcd28-ed36-4893-aa6e-6235246d9dc3",
+      "OfferUserId": "7b804c8d-c891-41ce-a0e1-1b26f31bacb5",
+      "BuyerAgentName": "Unknown"
     },
     {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78caa111",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "T dev 2",
-      "BuyerName": "T tester",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
+      "id": "59a702ae-8e99-4090-98f6-54830381bbf3",
+      "PropertyId": "d838cb2d-df0a-4ca4-93fd-4ba6bee4d098",
+      "CurrentStep": 1,
+      "PropertyUserId": "391dcd28-ed36-4893-aa6e-6235246d9dc3",
+      "OfferUserId": "ac5fa6f0-70de-4198-96a0-7ef8f2cf1453",
+      "BuyerAgentName": "Unknown"
     },
     {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78caa112",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "T dev 3",
-      "BuyerName": "T tester",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
+      "id": "5a4ba5d0-9494-42ad-9b0b-3f97d08e92c3",
+      "PropertyId": "6d6d1928-d524-421f-86ac-982f6d6ff269",
+      "CurrentStep": 1,
+      "PropertyUserId": "f8763e55-e55f-45ec-9a29-c6ae861b05ec",
+      "OfferUserId": "f4b89978-59b3-4392-9815-7ed96aa87877",
+      "BuyerAgentName": "Unknown"
     },
     {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78caa113",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "T dev 3",
-      "BuyerName": "T tester",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
+      "id": "f178ca1e-8b11-4677-b3d0-a0afea42f408",
+      "PropertyId": "6d6d1928-d524-421f-86ac-982f6d6ff269",
+      "CurrentStep": 1,
+      "PropertyUserId": "f8763e55-e55f-45ec-9a29-c6ae861b05ec",
+      "OfferUserId": "ac5fa6f0-70de-4198-96a0-7ef8f2cf1453",
+      "BuyerAgentName": "Unknown"
     },
     {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78caa114",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "T dev 3",
-      "BuyerName": "T tester",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
+      "id": "7aa24e04-dd7b-4608-8a31-d3482d048767",
+      "PropertyId": "6d6d1928-d524-421f-86ac-982f6d6ff269",
+      "CurrentStep": 1,
+      "PropertyUserId": "f8763e55-e55f-45ec-9a29-c6ae861b05ec",
+      "OfferUserId": "7b804c8d-c891-41ce-a0e1-1b26f31bacb5",
+      "BuyerAgentName": "Unknown"
+    },
+    {
+      "id": "8ebe83e3-2c1e-41ff-b0bd-0c217876f436",
+      "PropertyId": "7d2742cb-3cf4-4140-852d-742cc802e48e",
+      "CurrentStep": 1,
+      "PropertyUserId": "f8763e55-e55f-45ec-9a29-c6ae861b05ec",
+      "OfferUserId": "7b804c8d-c891-41ce-a0e1-1b26f31bacb5",
+      "BuyerAgentName": "Unknown"
+    },
+    {
+      "id": "3c1ece9e-da2b-48c2-8b8b-cef651bb76ca",
+      "PropertyId": "7d2742cb-3cf4-4140-852d-742cc802e48e",
+      "CurrentStep": 1,
+      "PropertyUserId": "f8763e55-e55f-45ec-9a29-c6ae861b05ec",
+      "OfferUserId": "ac5fa6f0-70de-4198-96a0-7ef8f2cf1453",
+      "BuyerAgentName": "Unknown"
     }
   ],
-  "buyer-offers": [
-    {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cb201",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "seller 1",
-      "BuyerName": "buyer 1",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
-    },
-    {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cab202",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "seller 2",
-      "BuyerName": "buyer 2",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
-    },
-    {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cab203",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "seller 3",
-      "BuyerName": "buyer 3",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
-    },
-    {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cab204",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "seller 4",
-      "BuyerName": "buyer 5",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
-    },
-    {
-      "id": "0d1f6b34-bcaa-4104-bd6b-a005a78cab205",
-      "PropertyId": "db775ff7-60e2-4329-b987-56386c60b8c8",
-      "CurrentStep": "submitted",
-      "SellerName": "seller 5",
-      "BuyerName": "buyer 5",
-      "BuyerAgentName": "T com",
-      "OfferStatus": "purchase"
-    }
-  ]
+  "buyer-offers": []
 }
