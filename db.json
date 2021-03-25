@@ -1,5 +1,5 @@
 {
-  "formdata/forms": [
+  "forms": [
     {
       "Title": "lan test 4",
       "CreatedDT": "2021-03-24T07:50:59.000Z",
@@ -31,7 +31,7 @@
       "id": "a1230e36-5058-4ba0-bc73-73c4515ae9e0"
     }
   ],
-  "digioffer/offers": [
+  "offers": [
     {
       "id": "37acc74b-c9f7-49d3-aecf-114cceede5a9",
       "PropertyId": "d838cb2d-df0a-4ca4-93fd-4ba6bee4d098",
