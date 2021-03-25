@@ -1,8 +1,37 @@
 {
-  "formdata": {
-    "forms": []
-  },
-  "offers": [
+  "formdata/forms": [
+    {
+      "Title": "lan test 4",
+      "CreatedDT": "2021-03-24T07:50:59.000Z",
+      "FormStatus": "Published",
+      "CategoryId": "0014b5ee-71c0-11eb-9439-0242ac130002",
+      "UpdatedDT": "2021-03-25T07:33:00.000Z",
+      "CreatedBy": "e327c2d8-eadc-4674-b749-c327ed0c3b87",
+      "UpdatedBy": "e327c2d8-eadc-4674-b749-c327ed0c3b87",
+      "id": "30496225-675c-4c12-bfd5-ac94c03ba5c8"
+    },
+    {
+      "Title": "Listing Details",
+      "CreatedDT": "2021-03-24T07:19:37.000Z",
+      "FormStatus": "Published",
+      "CategoryId": "0014b5ee-71c0-11eb-9439-0242ac130002",
+      "UpdatedDT": "2021-03-25T08:16:23.000Z",
+      "CreatedBy": "e327c2d8-eadc-4674-b749-c327ed0c3b87",
+      "UpdatedBy": "e327c2d8-eadc-4674-b749-c327ed0c3b87",
+      "id": "e046e497-9e28-4ead-9cad-0b14bf2a3c27"
+    },
+    {
+      "Title": "Year Built",
+      "CreatedDT": "2021-03-24T07:41:20.000Z",
+      "FormStatus": "Published",
+      "CategoryId": "0014b5ee-71c0-11eb-9439-0242ac130002",
+      "UpdatedDT": "2021-03-25T04:45:52.000Z",
+      "CreatedBy": "e327c2d8-eadc-4674-b749-c327ed0c3b87",
+      "UpdatedBy": "e327c2d8-eadc-4674-b749-c327ed0c3b87",
+      "id": "a1230e36-5058-4ba0-bc73-73c4515ae9e0"
+    }
+  ],
+  "digioffer/offers": [
     {
       "id": "37acc74b-c9f7-49d3-aecf-114cceede5a9",
       "PropertyId": "d838cb2d-df0a-4ca4-93fd-4ba6bee4d098",
@@ -59,6 +88,5 @@
       "OfferUserId": "ac5fa6f0-70de-4198-96a0-7ef8f2cf1453",
       "BuyerAgentName": "Unknown"
     }
-  ],
-  "buyer-offers": []
+  ]
 }
