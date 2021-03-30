@@ -40,7 +40,8 @@
       "OfferUserId": "7b804c8d-c891-41ce-a0e1-1b26f31bacb5",
       "BuyerAgentName": "Unknown",
       "Funding": "test Funding",
-      "ClosingPeriod": "Closing Period"
+      "ClosingPeriod": "Mar 9 2021",
+      "OfferPrice": "500"
     },
     {
       "id": "59a702ae-8e99-4090-98f6-54830381bbf3",
@@ -50,7 +51,8 @@
       "OfferUserId": "ac5fa6f0-70de-4198-96a0-7ef8f2cf1453",
       "BuyerAgentName": "Unknown",
       "Funding": "test Funding",
-      "ClosingPeriod": "Closing Period"
+      "ClosingPeriod": "Mar 9 2021",
+      "OfferPrice": "500"
     },
     {
       "id": "5a4ba5d0-9494-42ad-9b0b-3f97d08e92c3",
@@ -60,7 +62,8 @@
       "OfferUserId": "f4b89978-59b3-4392-9815-7ed96aa87877",
       "BuyerAgentName": "Unknown",
       "Funding": "test Funding",
-      "ClosingPeriod": "Closing Period"
+      "ClosingPeriod": "Mar 9 2021",
+      "OfferPrice": "500"
     },
     {
       "id": "f178ca1e-8b11-4677-b3d0-a0afea42f408",
@@ -70,7 +73,8 @@
       "OfferUserId": "ac5fa6f0-70de-4198-96a0-7ef8f2cf1453",
       "BuyerAgentName": "Unknown",
       "Funding": "test Funding",
-      "ClosingPeriod": "Closing Period"
+      "ClosingPeriod": "Mar 9 2021",
+      "OfferPrice": "500"
     },
     {
       "id": "7aa24e04-dd7b-4608-8a31-d3482d048767",
@@ -80,7 +84,8 @@
       "OfferUserId": "7b804c8d-c891-41ce-a0e1-1b26f31bacb5",
       "BuyerAgentName": "Unknown",
       "Funding": "test Funding",
-      "ClosingPeriod": "Closing Period"
+      "ClosingPeriod": "Mar 9 2021",
+      "OfferPrice": "800"
     },
     {
       "id": "8ebe83e3-2c1e-41ff-b0bd-0c217876f436",
@@ -90,7 +95,8 @@
       "OfferUserId": "7b804c8d-c891-41ce-a0e1-1b26f31bacb5",
       "BuyerAgentName": "Unknown",
       "Funding": "test Funding",
-      "ClosingPeriod": "Closing Period"
+      "ClosingPeriod": "Mar 9 2021",
+      "OfferPrice": "700"
     },
     {
       "id": "3c1ece9e-da2b-48c2-8b8b-cef651bb76ca",
@@ -100,7 +106,8 @@
       "OfferUserId": "ac5fa6f0-70de-4198-96a0-7ef8f2cf1453",
       "BuyerAgentName": "Unknown",
       "Funding": "test Funding",
-      "ClosingPeriod": "Closing Period"
+      "ClosingPeriod": "Mar 9 2021",
+      "OfferPrice": "600"
     }
   ]
 }
