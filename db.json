@@ -90,7 +90,7 @@
     {
       "id": "8ebe83e3-2c1e-41ff-b0bd-0c217876f436",
       "PropertyId": "7d2742cb-3cf4-4140-852d-742cc802e48e",
-      "CurrentStep": 1,
+      "CurrentStep": 400,
       "PropertyUserId": "f8763e55-e55f-45ec-9a29-c6ae861b05ec",
       "OfferUserId": "7b804c8d-c891-41ce-a0e1-1b26f31bacb5",
       "BuyerAgentName": "Unknown",
@@ -101,7 +101,7 @@
     {
       "id": "3c1ece9e-da2b-48c2-8b8b-cef651bb76ca",
       "PropertyId": "7d2742cb-3cf4-4140-852d-742cc802e48e",
-      "CurrentStep": 1,
+      "CurrentStep": 500,
       "PropertyUserId": "f8763e55-e55f-45ec-9a29-c6ae861b05ec",
       "OfferUserId": "ac5fa6f0-70de-4198-96a0-7ef8f2cf1453",
       "BuyerAgentName": "Unknown",
